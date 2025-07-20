@@ -52,5 +52,5 @@ Can we automatically extract and summarize financial sentiment from news article
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-news-sentiment-summary.git
+   git clone https://github.com/connectmilind21/stock-news-sentiment-summary.git
    cd stock-news-sentiment-summary
