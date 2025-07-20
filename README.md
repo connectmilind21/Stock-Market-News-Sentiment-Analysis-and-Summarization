@@ -1,5 +1,3 @@
-# Stock-Market-News-Sentiment-Analysis-and-Summarization
-
 # 📈 Stock Market News Sentiment Analysis and Summarization
 
 ## 📌 Project Overview
